@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/noor/static/css/main.f08f3a5a.css",
-    "main.js": "/noor/static/js/main.dfbac9c1.js",
+    "main.js": "/noor/static/js/main.05d2d368.js",
     "index.html": "/noor/index.html",
     "main.f08f3a5a.css.map": "/noor/static/css/main.f08f3a5a.css.map",
-    "main.dfbac9c1.js.map": "/noor/static/js/main.dfbac9c1.js.map"
+    "main.05d2d368.js.map": "/noor/static/js/main.05d2d368.js.map"
   },
   "entrypoints": [
     "static/css/main.f08f3a5a.css",
-    "static/js/main.dfbac9c1.js"
+    "static/js/main.05d2d368.js"
   ]
 }
